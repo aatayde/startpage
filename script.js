@@ -1,4 +1,9 @@
 var currentDate = document.getElementById("current-date");
-currentDate.innerText = Date();
 
 console.log(Date());
+
+function displayTime() {
+  currentDate.innerText = Date();
+}
+
+const interval = setInterval(displayTime, 1000);
