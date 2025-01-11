@@ -7,3 +7,5 @@ function displayTime() {
 }
 
 const interval = setInterval(displayTime, 1000);
+
+let time = [year];
