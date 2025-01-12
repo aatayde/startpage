@@ -6,3 +6,12 @@ body {
 .center-text {
   text-align: center;
 }
+.row {
+  /* background-color: yellowgreen; */
+}
+.container-links {
+  /* background-color: teal; */
+}
+.column-1 {
+  /* background-color: orangered; */
+}
