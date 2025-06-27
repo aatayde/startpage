@@ -1,5 +1,7 @@
 # startpage
 
+check out the [live demo](https://aatayde.github.io/startpage)
+
 ## Resources
 
 ### JavaScript
