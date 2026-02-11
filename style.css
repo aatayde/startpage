@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #222;
+  background-color: #111;
   color: #e3e3e3;
   min-width: 100%;
   height: 100vh;
@@ -29,4 +29,8 @@ h1 {
   line-height: 1;
   font-size: 9em;
   font-family: "Ubuntu", Arial, Helvetica, sans-serif;
+}
+
+.pain-and-sorrow {
+  color: #5c1123;
 }
